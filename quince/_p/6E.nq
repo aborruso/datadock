@@ -1,0 +1,2 @@
+﻿<http://datadock.io/aborruso/datadock/id/dataset/isprarifiuticsv> <http://rdfs.org/ns/void#dataDump> <http://datadock.io/aborruso/datadock/csv/isprarifiuticsv/ispraRifiuti.csv> <http://datadock.io/aborruso/datadock/id/dataset/isprarifiuticsv/metadata>.
+<http://datadock.io/aborruso/datadock/id/dataset/isprarifiuticsv> <http://rdfs.org/ns/void#dataDump> <https://github.com/aborruso/datadock/releases/download/isprarifiuticsv_20190410_080922/isprarifiuticsv_20190410_080922.nt.gz> <http://datadock.io/aborruso/datadock/id/dataset/isprarifiuticsv/metadata>.
